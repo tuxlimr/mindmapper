@@ -1,0 +1,5 @@
+{
+  "name": "MindMapper AI",
+  "description": "Transform your documents and notes into visual mind maps instantly using Gemini 2.5 Flash. Upload text-based files or images to generate structured, interactive diagrams.",
+  "requestFramePermissions": []
+}
